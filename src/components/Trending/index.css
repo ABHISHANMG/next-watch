@@ -1,0 +1,13 @@
+.dash-icon-color {
+  color: #ff0b37;
+  height: 30px;
+  width: 30px;
+}
+.trend-videos-unordered-container {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  overflow: auto;
+  padding: 0px;
+  height: 70vh;
+}

@@ -1,0 +1,13 @@
+.trend-list-container {
+  display: flex;
+  list-style-type: none;
+}
+.trend-image-size {
+  width: 40%;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+.trend-dates-container {
+  display: flex;
+  align-items: center;
+}

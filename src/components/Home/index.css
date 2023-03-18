@@ -1,0 +1,127 @@
+.home-container {
+  display: flex;
+  background-size: cover;
+}
+
+Link {
+  text-decoration: none;
+}
+
+.contact-us-head {
+  color: #1e293b;
+  font-size: 20px;
+  font-weight: 700;
+  align-items: center;
+}
+.social-media-container {
+  display: flex;
+  justify-content: space-between;
+}
+.social-media-icon {
+  height: 30px;
+  width: 30px;
+  margin-right: 15px;
+}
+.contact-us-para {
+  color: #1e293b;
+  font-size: 15px;
+  font-weight: 500;
+}
+
+.videos-container {
+  width: 100%;
+  padding: 10px;
+  background-color: #f9f9f9;
+  overflow: auto;
+}
+.videos-container-dark-mode {
+  background-color: #0f0f0f;
+}
+.search-container {
+  background-color: white;
+  width: 500px;
+  display: flex;
+}
+.search-container-dark-mode {
+  background-color: transparent;
+  border: 1px solid #f1f1f1;
+}
+.search-bar {
+  outline-width: 0px;
+  border: 1px solid #475569;
+  background-color: transparent;
+  padding: 10px;
+}
+
+.dash-border-dark-mode {
+  background-color: #181818;
+}
+.dark-mode-contents {
+  color: #f9f9f9;
+}
+.banner-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/nxt-watch-banner-bg.png');
+  background-size: cover;
+}
+.videos-unordered-container {
+  display: flex;
+  width: 100%;
+  flex-wrap: wrap;
+  overflow: auto;
+  padding: 0px;
+  height: 70vh;
+}
+
+.retry-btn {
+  padding: 10px;
+  border-radius: 5px;
+  border-width: 0px;
+  color: white;
+  font-weight: 500;
+  background-color: #4f46e5;
+}
+.failure-image-size {
+  width: 35%;
+}
+.loader-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.add-banner-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/nxt-watch-banner-bg.png');
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  height: 200px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+.cross-btn {
+  cursor: pointer;
+  background-color: transparent;
+  border-width: 0px;
+  padding: 10px;
+  font-size: 20px;
+  color: #0f0f0f;
+}
+.banner-top-container {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+}
+.no-videos-container {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.get-it-now-btn {
+  color: black;
+  background-color: transparent;
+  border: 1px solid black;
+  padding: 10px;
+}

@@ -1,0 +1,43 @@
+.list-video-details-container {
+  list-style-type: none;
+  text-decoration: none;
+  width: 250px;
+  margin: 10px;
+}
+.Link {
+  text-decoration: none;
+}
+.thumbnail-image-size {
+  width: 100%;
+}
+.video-description-container {
+  margin-top: 10px;
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+.views-and-date-container {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+}
+.channel-title-heading {
+  color: #1e293b;
+  font-size: 15px;
+  font-family: roboto;
+  font-weight: normal;
+  margin-left: 10px;
+}
+.view-and-date-text {
+  color: #475569;
+  font-size: 15px;
+  font-family: roboto;
+}
+.profile-image-size {
+  height: 50px;
+  width: 50px;
+  border-radius: 50px;
+}
+.dark-mode-contents {
+  color: #f9f9f9;
+}

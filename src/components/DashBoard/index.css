@@ -1,0 +1,51 @@
+.dash-tab {
+  display: flex;
+  color: black;
+  font-size: 20px;
+  font-weight: 700;
+  text-decoration: none;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.right-dash-container {
+  width: 250px;
+  height: 90vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.dash-board-container {
+  padding: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+.dash-color {
+  color: #ff0b37;
+}
+
+.contact-us-head {
+  color: #1e293b;
+  font-size: 20px;
+  font-weight: 700;
+  align-items: center;
+}
+.social-media-container {
+  display: flex;
+  justify-content: space-between;
+}
+.social-media-icon {
+  height: 30px;
+  width: 30px;
+  margin-right: 15px;
+}
+.contact-us-para {
+  color: #1e293b;
+  font-size: 15px;
+  font-weight: 500;
+}

@@ -1,0 +1,8 @@
+.not-found-image {
+  width: 40%;
+}
+.not-found-image-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
